@@ -15048,5 +15048,12 @@
     "author": "Ben Rotholtz",
     "description": "Track your goals with a calendar view",
     "repo": "GizmoRay/obsidian-goal-tracker"  
+  },
+  {
+    "id": "obsidian-wakatime-kvh",
+    "name": "Wakatime / Wakapi",
+    "author": "Kevin Woblick",
+    "description": "Connect your Obsidian to Wakatime or Wakapi to track the time spent while browsing or writing notes.",
+    "repo": "Kovah/obsidian-wakatime"
   }
 ]
